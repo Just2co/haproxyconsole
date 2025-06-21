@@ -1,3 +1,5 @@
+IPTV https://github.com/zilong7728/Collect-IPTV 每4小时更新
+
 HAProxyConsole是一个简单的HAProxy负载均衡任务管理系统。由于HAProxy的负载均衡任务可能会很多，手动编辑配置文件非常不方便、不安全，所以实现一个友好的管理系统是非常必要的。
 
 ### 功能点：
